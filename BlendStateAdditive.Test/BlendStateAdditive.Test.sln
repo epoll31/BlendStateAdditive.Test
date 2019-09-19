@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlendStateAdditive.Test", "BlendStateAdditive.Test\BlendStateAdditive.Test.csproj", "{DADBC033-001C-4A65-8CA7-FEBC4DB8264E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DADBC033-001C-4A65-8CA7-FEBC4DB8264E}.Debug|x86.ActiveCfg = Debug|x86
+		{DADBC033-001C-4A65-8CA7-FEBC4DB8264E}.Debug|x86.Build.0 = Debug|x86
+		{DADBC033-001C-4A65-8CA7-FEBC4DB8264E}.Release|x86.ActiveCfg = Release|x86
+		{DADBC033-001C-4A65-8CA7-FEBC4DB8264E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F161CA7A-60DE-4668-A694-3416D35000CA}
+	EndGlobalSection
+EndGlobal
